@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SyncScrollView' target in the 'SyncScrollView' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
